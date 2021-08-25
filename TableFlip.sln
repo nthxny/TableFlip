@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableFlip", "TableFlip.csproj", "{BB2FCB93-F717-4902-8AA6-1823471A8F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2FCB93-F717-4902-8AA6-1823471A8F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2FCB93-F717-4902-8AA6-1823471A8F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2FCB93-F717-4902-8AA6-1823471A8F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2FCB93-F717-4902-8AA6-1823471A8F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A5BB7C-E9E0-4FC3-AFA9-47299EB1E413}
+	EndGlobalSection
+EndGlobal

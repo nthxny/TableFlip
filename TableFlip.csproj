@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Vice</Authors>
+    <Description>ǀノဝᆷဝǀノ ㅗᅳㅗ</Description>
+    <Copyright>MIT License</Copyright>
+  </PropertyGroup>
+
+</Project>

@@ -7,6 +7,9 @@
     <Authors>Vice</Authors>
     <Description>ǀノဝᆷဝǀノ ㅗᅳㅗ</Description>
     <Copyright>MIT License</Copyright>
+    <PackageProjectUrl>https://github.com/viceversagames/TableFlip</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/viceversagames/TableFlip</RepositoryUrl>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
 </Project>
